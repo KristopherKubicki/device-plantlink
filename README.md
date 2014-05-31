@@ -6,13 +6,13 @@ Now SmartThings can talk to your PlantLinks. This device type does not actually 
 ## Installation
 
 1) Create a new device type (https://graph.api.smartthings.com/ide/devices)
-      Name: PlantLink
-      Author: Kristopher Kubicki
-      Capabilities:
-        Battery
-        Water Sensor 
-        Polling
-        Signal Strength
+    *  Name: PlantLink
+    *  Author: Kristopher Kubicki
+    *  Capabilities:
+    *    Battery
+    *    Water Sensor 
+    *    Polling
+    *    Signal Strength
 
 2) Create a new device (https://graph.api.smartthings.com/device/list)
       Name: Your Choice
