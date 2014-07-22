@@ -1,5 +1,4 @@
 # PlantLink Device Type
-http://build.smartthings.com/projects/plantlink/
 
 Now SmartThings can talk to your PlantLinks. This device type does not actually route your PlantLink Zigbee communication through your SmartThings, but rather, it polls data from the PlantLink API.  
 
