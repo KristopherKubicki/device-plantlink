@@ -1,6 +1,6 @@
 # PlantLink Device Type
 
-Now SmartThings can talk to your PlantLinks. This device type does not actually route your PlantLink Zigbee communication through your SmartThings, but rather, it polls data from the PlantLink API.  
+This is a different implementation of the PlantLink (Connect).  I attempted to poll the Link data from the PlantLink servers directly, rather than pairing the devices to the ST Hub, and then using a SmartApp to poll the data.  Although this method is fairly reliable, its not the official method sanctioned by either OsoTech or SmartThings.   Please use at your own risk!
 
 ## Installation
 
