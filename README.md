@@ -1,4 +1,6 @@
-# PlantLink Device Type
+# PlantLink Device Type (Deprecated)
+
+<b>Please do not use this device type.  Please use the Oso Tech and SmartThings sanctioned <a href='https://github.com/KristopherKubicki/device-plantlink-direct'>PlantLink Direct</a> device instead!</b>
 
 This is a different implementation of the PlantLink (Connect).  I attempted to poll the Link data from the PlantLink servers directly, rather than pairing the devices to the ST Hub, and then using a SmartApp to poll the data.  Although this method is fairly reliable, its not the official method sanctioned by either OsoTech or SmartThings.   Please use at your own risk!
 
